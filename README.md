@@ -10,7 +10,7 @@ You need a system installation of [Python](https://www.python.org/downloads/) (p
 
 ## Installation
 
-To install slackmoji, run:
+To install slackmoji, clone this project and run:
 ```bash
 python slackmoji/setup.py install
 ```
