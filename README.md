@@ -1,5 +1,6 @@
 # slackmoji
 *Scripts related to slack emoji control*
+
 Inspiration for upload script taken from smashwilson's [slack-emojinator](https://github.com/smashwilson/slack-emojinator) project.
 
 ## Prerequisistes
